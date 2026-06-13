@@ -63,6 +63,11 @@ Push to the Branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
+## ✍️ Author
+
+**Waqas Ali** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waqasali-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waqasali-tech)
+
 📜 License
 This project is open-source and available under the MIT License.
 
